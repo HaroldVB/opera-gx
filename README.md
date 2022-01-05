@@ -1,4 +1,4 @@
-# opera-gx
+# Opera GX Package
 Chocolatey package for Opera-GX browser.
 
 # Install
