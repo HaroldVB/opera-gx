@@ -3,12 +3,12 @@ Chocolatey package for Opera-GX browser.
 
 # Install
 
-choco install operagx -y
+`choco install operagx -y`
 
 # Uninstall
 
-choco uninstall operagx -y
+`choco uninstall operagx -y`
 
 # Upgrade
 
-choco upgrade operagx -y
+`choco upgrade operagx -y`
