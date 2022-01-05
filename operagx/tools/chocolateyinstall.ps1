@@ -1,10 +1,10 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$version = '#VERSION'
+$version = '82.0.4227.50'
 
-$checksum   = "#CHECKSUM"
-$checksum64 = "#CHECKSUM64"
+$checksum   = "a794c04108e4a237570c267e1d00420dd39e7d16fd8658778a366a2f3128ced8"
+$checksum64 = "c3acc3d9ffad25913cb2a6f1413c9c3b9a2c7223cc468981bf3e6cd7e70471d7"
 
 Write-Output "Checksums for Version $version"
 Write-Output "$checksum"
